@@ -1,0 +1,16 @@
+{
+  "name": "image-stream-backend",
+  "version": "0.0.0",
+  "description": "Demo application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joerg Henning",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.6.2",
+    "express": "^4.8.2",
+    "node-uuid": "^1.4.1"
+  }
+}
